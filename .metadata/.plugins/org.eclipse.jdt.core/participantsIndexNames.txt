@@ -1,5 +1,7 @@
 INDEX VERSION 1.131
-D:\JavaMinor\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1040537447.index
-\java-minor\src\main\resources
-D:\JavaMinor\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1417356818.index
+D:\java-minor\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\38504405.index
+\java-minor\src\main\java
+D:\java-minor\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1040537447.index
+\java-minor\src\main\java
+D:\java-minor\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2916129106.index
 \java-minor\src\main\java
